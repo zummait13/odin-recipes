@@ -2,6 +2,9 @@
 
 This webpage contains few recipes of food
 
-Making base structure of HTML file
-Working with command line
-Working with git and commits
+Exercises that I made:
+- Set up base structure of HTML file
+- Work with command line
+- Work with git and commits
+- Add images and links
+- Make unordered and ordered lists
